@@ -5,7 +5,7 @@
 | Campo | Valor |
 |---------|---------|
 | Pregunta analítica | ¿Cómo influye el uso de Inteligencia Artificial Generativa en el rendimiento académico, la retención del conocimiento y el bienestar emocional de los estudiantes universitarios? |
-| Dataset | AI Student Impact Dataset (~50,000 registros) |
+| Dataset | AI Student Impact Dataset  — pública (~50,000 registros) |
 | Fuente | [Dataset académico sobre adopción de IA Generativa en estudiantes](https://www.kaggle.com/datasets/ranaghulamnabi/ai-usage-and-student-academic-performance-analysis?resource=download) |
 | Modelo | Esquema Estrella (Star Schema) con 1 tabla de hechos (fact_student_performance) y 4 dimensiones (dim_major, dim_year, dim_ai_usage, dim_psychological) |
 | Infraestructura | Amazon S3 + Amazon Athena + DBeaver |
