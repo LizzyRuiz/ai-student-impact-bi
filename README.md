@@ -351,6 +351,6 @@ Las consultas analíticas utilizarán:
 
 # 👨‍💻 Autor - Elizabeth Ruiz
 
-Proyecto desarrollado como parte de un curso de Business Intelligence y Analítica de Datos.
+Proyecto desarrollado como parte de un Diplomado Manejo de bases de datos SQL y NoSQL en un entorno de nube.
 
 **Año:** 2026
