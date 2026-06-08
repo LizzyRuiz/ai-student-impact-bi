@@ -211,8 +211,7 @@ Este diseño permite optimizar consultas analíticas en Amazon Athena y facilita
                                       │ major_category      │
                                       └──────────┬──────────┘
                                                  │
-                                                 
-
+                                                 │
 ┌─────────────────────┐              ┌──────────────────────────────┐              ┌─────────────────────┐
 │      dim_year       │              │  fact_student_performance    │              │    dim_ai_usage     │
 │---------------------│              │------------------------------│              │---------------------│
@@ -231,8 +230,7 @@ Este diseño permite optimizar consultas analíticas en Amazon Athena y facilita
                                      │ tool_diversity               │
                                      └──────────────┬───────────────┘
                                                     │
-                                                    
-
+                                                    │
                                       ┌────────────────────────────┐
                                       │     dim_psychological      │
                                       │----------------------------│
