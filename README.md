@@ -211,12 +211,12 @@ Este diseño permite optimizar consultas analíticas en Amazon Athena y facilita
                                       │ major_category      │
                                       └──────────┬──────────┘
                                                  │
-                                                 ▼
+                                                 
 
 ┌─────────────────────┐              ┌──────────────────────────────┐              ┌─────────────────────┐
 │      dim_year       │              │  fact_student_performance    │              │    dim_ai_usage     │
 │---------------------│              │------------------------------│              │---------------------│
-│ year_key (PK)       │─────────────►│ student_id                   │◄─────────────│ ai_usage_key (PK)   │
+│ year_key (PK)       │───────────── │ student_id                   │ ─────────────│ ai_usage_key (PK)   │
 │ year_of_study       │              │ major_key (FK)               │              │ primary_use_case    │
 └─────────────────────┘              │ year_key (FK)                │              │ prompt_skill        │
                                      │ ai_usage_key (FK)            │              │ paid_subscription   │
@@ -231,7 +231,7 @@ Este diseño permite optimizar consultas analíticas en Amazon Athena y facilita
                                      │ tool_diversity               │
                                      └──────────────┬───────────────┘
                                                     │
-                                                    ▼
+                                                    
 
                                       ┌────────────────────────────┐
                                       │     dim_psychological      │
