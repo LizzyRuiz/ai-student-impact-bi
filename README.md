@@ -269,6 +269,22 @@ Este diseño permite optimizar consultas analíticas en Amazon Athena y facilita
 - Aplicación de buenas prácticas de Business Intelligence.
 
 ---
+## Data Quality Validation
+
+El proyecto incorpora controles de calidad posteriores al proceso ETL para validar:
+
+- Duplicados de estudiantes
+- Integridad referencial
+- Rangos válidos de GPA
+- Rangos válidos de horas de estudio
+- Consistencia de KPIs calculados
+- Distribución de dimensiones
+
+Estas validaciones se ejecutan mediante el script:
+
+scripts/06_quality_checks.sql
+
+---
 
 # 💻 SQL Avanzado
 
