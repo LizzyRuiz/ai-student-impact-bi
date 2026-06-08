@@ -171,6 +171,7 @@ ai-student-impact-bi/
 │   ├── 03_dim_year_populate.sql
 │   ├── 04_dim_ai_usage_populate.sql
 │   ├── 05_dim_psychological_populate.sql
+│   ├── 06_quality_checks.sql
 │   └── etl_pipeline.py
 │
 ├── analisis/
