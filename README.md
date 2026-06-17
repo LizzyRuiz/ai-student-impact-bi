@@ -329,19 +329,6 @@ Las consultas analíticas utilizarán:
 
 ---
 
-# 📈 KPIs Principales
-
-- GPA Improvement
-- Average Weekly GenAI Hours
-- Average Skill Retention Score
-- Average AI Dependency
-- Burnout Risk Distribution
-- Anxiety Level Distribution
-- Paid Subscription Adoption Rate
-- Prompt Engineering Skill Level
-
----
-
 # 📊 Resultados y Hallazgos de Negocio
 
 ---
@@ -385,7 +372,7 @@ La segmentación de estudiantes por niveles de uso permitió observar que el imp
 
 ## Visualización
 
-![IA vs GPA](dashboard/img/01_optimal_ai_vs_gpa.png)
+![IA vs GPA](dashboard/img/01_gpa_vs_ai.png)
 
 ## Hallazgo
 
