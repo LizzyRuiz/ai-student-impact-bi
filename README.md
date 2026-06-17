@@ -633,26 +633,6 @@ En conjunto, los hallazgos indican que la IA Generativa debe utilizarse como una
 
 ---
 
-# 📂 Evidencia Visual
-
-## IA vs GPA
-
-![IA vs GPA](dashboard/img/01_optimal_ai_vs_gpa.png)
-
-## Dependencia vs Retención
-
-![Dependencia vs Retención](dashboard/img/02_dependency_retention.png)
-
-## Burnout Académico
-
-![Burnout Académico](dashboard/img/03_burnout_vs_ai_usage.png)
-
-## Adopción de IA por Carrera
-
-![Adopción IA por Carrera](dashboard/img/04_major_ai_adoption.png)
-
----
-
 # 🚀 Tecnologías Utilizadas
 
 - Python
