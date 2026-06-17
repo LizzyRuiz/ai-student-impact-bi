@@ -427,7 +427,7 @@ Se agruparon los estudiantes por rangos de horas semanales de uso de IA y se cal
 
 ## Visualización
 
-![Nivel Óptimo de Uso de IA](dashboard/img/01_optimal_ai_vs_gpa.png)
+![Nivel Óptimo de Uso de IA](dashboard/img/01_gpa_vs_ai.png)
 
 ## Hallazgo
 
@@ -477,7 +477,7 @@ Se comparó el nivel de dependencia percibida hacia la IA con el indicador de re
 
 ## Visualización
 
-![Dependencia vs Retención](dashboard/img/02_dependency_retention.png)
+![Dependencia vs Retención](dashboard/img/02_dependency_vs_retention.png)
 
 ## Hallazgo
 
@@ -528,7 +528,7 @@ Se analizaron los niveles de burnout y ansiedad en función de las horas semanal
 
 ## Visualización
 
-![Burnout Académico](dashboard/img/03_burnout_vs_ai_usage.png)
+![Burnout Académico](dashboard/img/03_burnout_analysis.png)
 
 ## Hallazgo
 
@@ -584,7 +584,7 @@ Se comparó el promedio de horas semanales de uso de IA entre las distintas cate
 
 ## Visualización
 
-![Adopción de IA por Carrera](dashboard/img/04_major_ai_adoption.png)
+![Adopción de IA por Carrera](dashboard/img/04_major_comparison.png)
 
 ## Hallazgo
 
